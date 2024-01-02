@@ -1,0 +1,178 @@
+[Question]: There were 35 students in a hostel. Due to the admission of 7 new students the expenses of the mess were increased by Rs.84 per day while the average expenditure per head diminished by Re 1. What was the original expenditure of the mess?
+[Options]: A)Rs 450, B)Rs 920, C)Rs 550, D)Rs.630, E)None of these
+[Solution]: 
+Let's think step by step.
+Let's assume the original average expenditure per head be Rs.x
+So, the total expenditure of the mess before the admission of new students = 35x.
+After the admission of 7 new students, the total number of students becomes 35 + 7 = 42.
+The new average expenditure per head = x - 1.
+So, the total expenditure of the mess after the admission of new students = 42(x - 1).
+According to the given information, the new total expenditure is increased by Rs.84 per day.
+So, we can write the equation as: 
+42(x - 1) - 35x = 84.
+Now, let's solve the equation.
+42x - 42 - 35x = 84.
+7x = 126.
+x = 18.
+The original expenditure of the mess was Rs. 18 per head.
+Therefore, the original expenditure of the mess = 35 * 18 = Rs. 630.
+Answer: D
+
+[Question]: A train 200 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. The speed of the train is?
+[Options]: A)28, B)50, C)77, D)22, E)12
+[Solution]: 
+Let's think step by step.
+Length of the train = 200 m = 0.2 km
+Speed of the man = 5 km/hr
+Time taken to pass the man = 10 s = (10 / 3600) hr = (1 / 360) hr
+Let's assume the speed of the train is 'x' km/hr.
+Relative speed of the train with respect to the man = (x - 5) km/hr
+Distance covered by the train in 10 seconds = Length of the train = 200 m
+Using the formula: Distance = Speed × Time, we can write the equation as: 
+0.2 = (x - 5) × (1 / 360)
+Now, let's solve the equation.
+0.2 × 360 = x - 5
+72 + 5 = x
+x = 77
+Therefore, the speed of the train is 77 km/hr.
+Answer: C
+
+[Question]: Solution X contains 20% of material A and 80% of material B. Solution Y contains 30% of material A and 70% of material B. A mixture of both these solutions contains 22% of material A in the final product. how much solution X is present in the mixture?
+[Options]: A)40%, B)60%, C)80%, D)100%, E)110%
+[Solution]: 
+Let's think step by step.
+Let's assume that the mixture contains x% of solution X and (100-x)% of solution Y.
+In solution X, 20% of material A is present, so the amount of material A in solution X is 0.2x.
+In solution Y, 30% of material A is present, so the amount of material A in solution Y is 0.3(100-x).
+In the final mixture, 22% of material A is present, so the amount of material A in the mixture is 0.22(100).
+Since the amount of material A in the mixture is the sum of the amounts of material A in solution X and solution Y, we can write the equation:
+0.2x + 0.3(100-x) = 0.22(100)
+Now, let's solve the equation.
+0.2x + 30 - 0.3x = 22
+-0.1x = -8
+x = 80
+Therefore, 80% of solution X is present in the mixture.
+Answer: C
+
+[Question]: A trader sells 40 metres of cloth for Rs.8200 at a profit of Rs.35 per metre of cloth. How much profit will the trder earn on 40 metres of cloth?
+[Options]: A)Rs.950, B)Rs.1500, C)Rs.1000, D)Rs.1400, E)None of these
+[Solution]: 
+Let's think step by step.
+The trader earns a profit of Rs.35 per metre of cloth.
+The trader sells 40 metres of cloth.
+So, the trader will earn a profit of Rs.35 x 40 = Rs.1400 on 40 metres of cloth.
+Answer: D
+
+[Question]: If x < y < z and y - x > 5, where x is an even integer and y and z are odd integers, what is the least possible value S of z - x?
+[Options]: A)6, B)7, C)8, D)9, E)10
+[Solution]: 
+Let's think step by step.
+Since x is an even integer and y is an odd integer, the difference y - x will always be an odd integer. 
+Given that y - x > 5, since it has to be an odd integer greater than 5, the smallest possible value for y - x is 7.
+Since y and z are both odd integers, the difference z - y will always be an even integer.
+Gicen that y < z, which means z - y > 0. Since z - y is an even integer greater than 0, the smallest possible value for z - y is 2.
+Therefore, the least possible value of z - x = (z - y) + (y - x) is 2 + 7 = 9.
+Answer: D
+
+[Question]: What is the difference between the C.I. on Rs. 6000 for 1 1/2 years at 4% per annum compounded yearly and half-yearly?
+[Options]: A)s.2.04, B)s.2.08, C)s.2.02, D)s.2.83, E)s.2.45
+[Solution]: 
+Let's think step by step.
+Let's first give the formula for compound interest:
+CI = P(1 + r/100)^n - P
+Where,
+P = Principal amount
+r = Rate of interest
+n = The number of interest periods, which should be an integer
+Let's calculate the compound interest (CI) for 1 1/2 years at 4% per annum compounded yearly.
+We are given that: The principal amount is Rs. 6000. So, P = 6000; The rate of interest is 4% per annum. So, r = 4%; The number of interest periods is 1 1/2 years. So n = 1 1/2.
+The n is not an integer, and people can only get half interest for the rest half year. 
+So, the CI compounded yearly for 1 1/2 years is:
+CI = P(1 + r/100)(1 + 1/2 * r/100) - P
+= 6000(1 + 4/100)(1 + 1/2 * 4/100) - 6000
+= 6000(104/100)(102/100) - 6000
+= 6000 * 26/25 * 51/50 - 6000
+= 6000 * 1326/1250 - 6000
+= 6000 * 1.0608 - 6000
+= 6364.8 - 6000
+= 364.8
+Now, let's calculate the compound interest (CI) for 1 1/2 years at 4% per annum compounded half-yearly.
+We are given that: The principal amount is Rs. 6000. So, P = 6000. The rate of interest is 4% per annum compounded half-yearly. So, r = 4% / 2 = 2%. The number of interest periods is (1 1/2) years / (1/2) year = 3.
+So, the CI compounded half-yearly for 1 1/2 years is:
+CI = P(1 + r/100)^n - P
+= 6000(1 + 2/100)^3 - 6000
+= 6000(102/100)^3 - 6000
+= 6000 * 51/50 * 51/50 * 51/50 - 6000
+= 6000 * 132651 / 125000 - 6000
+= 6000 * 1.061208 - 6000
+= 6367.248 - 6000
+= 367.248
+So, the difference between the two compound interests is: 
+367.248 - 364.8 = 2.448 = Rs.2.45
+Answer: E
+
+[Question]: The average weight of A, B and C is 45 kg. If the average weight of A and B be 40 kg and that of B and C be 45 kg, then the weight of B is:
+[Options]: A)31 kg, B)32 kg, C)33 kg, D)35 kg, E)None of these
+[Solution]: 
+Let's think step by step.
+Let's think step by step.
+Let the weight of A be x kg, the weight of B be y kg, and the weight of C be z kg.
+According to the given information, the average weight of A and B is 40 kg. So, we can write the equation:
+(x + y)/2 = 40
+Simplifying this equation, we get:
+x + y = 80
+Similarly, the average weight of B and C is 45 kg. So, we can write the equation:
+(y + z)/2 = 45
+Simplifying this equation, we get:
+y + z = 90
+Now, we need to find the weight of B. We can do this by subtracting the weight of A and C from the total weight of A, B, and C.
+The average weight of A, B, and C is 45 kg. So, we can write the equation:
+(x + y + z)/3 = 45
+Simplifying this equation, we get:
+x + y + z = 135
+Now, subtracting the equation (x + y = 80) from the equation (x + y + z = 135), we get:
+z = 55tuting the value of z in the equation (y + z = 90), we get:
+y + 55 = 90
+Subtracting 55 from both sides of the equation, we get:
+y = 35
+Therefore, the weight of B is 35 kg.
+Answer: D
+
+[Question]: The compound and the simple interests on a certain sum at the same rate of interest for two years are Rs.11730 and Rs.10200 respectively. Find the sum
+[Options]: A)Rs.17037, B)Rs.17000, C)Rs.17276, D)Rs.170287, E)Rs.171881
+[Solution]: 
+Let's think step by step.
+Let's first give the formulas for compound interest (CI) and simple interest (SI).
+CI = P(1 + r/100)^n - P
+SI = P * r * n/100
+Where,
+P = Principal amount
+r = Rate of interest
+n = The number of interest periods, which should be an integer.
+Given that the compound interest (CI) and the simple interest (SI) for 2 years is Rs. 11730 and Rs. 10200 respectively.
+So, we have CI = Rs. 11730, SI = Rs. 10200, and n = 2.
+Substituting these values in the formulas, we have:
+11730 = P(1 + r/100)^2 - P
+10200 = P * r * 2/100
+Now, let's solve the equations to find P.
+From the second equation, we can rewrite it as:
+r = 10200 * 100 / (P * 2)
+r = 510000 / P
+Now, substitute this value of r in the first equation:
+11730 = P(1 + 510000/P/100)^2 - P
+Simplifying the equation, we get:
+11730 = P(1 + 5100/P)^2 - P
+11730 = P(1 + 2 * 5100/P + 5100^2/P^2) - P
+11730 = P + 2* 5100 + 5100^2/P - P
+11730 = 10200 + 5100^2/P
+1530 = 5100^2/P
+P = 5100^2/1530
+P = 2601000/1530
+P = 17000
+Therefore, the sum is Rs. 17000.
+Answer: B
+
+[Question]: {}
+[Options]: {}
+[Solution]: 
+Let's think step by step.

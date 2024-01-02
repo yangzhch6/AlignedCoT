@@ -1,0 +1,73 @@
+[Question]: John found that the average of 15 numbers is 40. If 10 is added to each number then the mean of the numbers is?
+[Options]: A)50, B)45, C)65, D)78, E)64
+[Solution]: 
+First, Let's find the sum of the 15 numbers.
+Since the average of the 15 numbers is 40, the sum of the 15 numbers is 15 * 40 = 600.
+Next, let's add 10 to each number.
+If we add 10 to each number, the sum of the numbers will increase by 10 * 15 = 150.
+Then, let's find the new average.
+The new sum of the numbers is 600 + 150 = 750.
+Since there are still 15 numbers, the new average is 750 / 15 = 50.
+Therefore, the mean of the numbers after adding 10 to each number is 50.
+Answer: A
+
+
+[Question]: If a / b = 3/4 and 8a + 5b = 22,then find the value of a.
+[Options]: A)1/2, B)3/2, C)5/2, D)4/2, E)7/2
+[Solution]: 
+Let's think step by step. 
+First, let's solve the equation a/b = 3/4 for a. We can do this by cross-multiplying:
+4a = 3b
+Next, let's substitute this value of a into the second equation 8a + 5b = 22:
+8(3b/4) + 5b = 22
+Multiplying through by 4 to get rid of the fraction:
+24b + 20b = 88
+Combining like terms:
+44b = 88
+Dividing both sides by 44:
+b = 2
+Now, let's substitute this value of b back into the equation 4a = 3b:
+4a = 3(2)
+4a = 6
+Dividing both sides by 4:
+a = 6/4
+Simplifying:
+a = 3/2
+Therefore, the value of a is 3/2. 
+Answer: B
+
+
+[Question]: A person is traveling at 20 km/hr and reached his destiny in 2.5 hr then find the distance?
+[Options]: A)53 km, B)55 km, C)52 km, D)60 km, E)50 km
+[Solution]: 
+Let's think step by step. 
+Given:
+Speed = 20 km/hr
+Time = 2.5 hr
+To find the distance, we can use the formula:
+Distance = Speed x Time
+Substituting the given values:
+Distance = 20 km/hr x 2.5 hr
+Calculating:
+Distance = 50 km
+Therefore, the distance is 50 km.
+Answer: E
+
+
+
+[Question]: How many keystrokes are needed to type the numbers from 1 to 500?
+[Options]: A)1156, B)1392, C)1480, D)1562, E)1788
+[Solution]: 
+Let's think step by step.
+For the numbers from 1 to 9, 1 keystroke is needed for each number. There are 9 numbers from 1 to 9, so 9 keystrokes are needed.
+For the numbers from 10 to 99, 2 keystrokes are needed for each number. There are 90 numbers from 10 to 99, so 90 * 2 = 180 keystrokes are needed.
+For the numbers from 100 to 500, 3 keystrokes are needed for each number. There are 401 numbers from 100 to 500, so 401 * 3 = 1203 keystrokes are needed.
+Adding up all the keystrokes, we get 9 + 180 + 1203 = 1392 keystrokes.
+Therefore, the 1392 keystrokes are needed to type.
+Answer: B
+
+
+[Question]: {}
+[Options]: {}
+[Solution]: 
+Let's think step by step.

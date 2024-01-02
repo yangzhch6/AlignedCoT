@@ -1,0 +1,52 @@
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
+James, 12, 90, 12
+How many penguins are less than 8 years old?
+Options:
+(A) 1
+(B) 2
+(C) 3
+(D) 4
+(E) 5
+A: Let's think step by step.
+We are given a table with the information of several penguins. We need to find out how many penguins are less than 8 years old.
+Looking at the table, we can see that Louis is 7 years old, Bernard is 5 years old, Vincent is 9 years old, and Gwen is 8 years old. The additional penguin, James, is 12 years old.
+Out of these five penguins, only Louis and Bernard are less than 8 years old. 
+So the answer is (B).
+
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  Which is the youngest penguin?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: Let's think step by step.
+We are given a table with the information of several penguins. We need to find out the the youngest penguin.
+First, let's identify the column that represents the age of each penguin. In this case, it is the second column.
+Next, let's compare the ages of each penguin:
+Louis: 7
+Bernard: 5
+Vincent: 9
+Gwen: 8
+From the comparison, we can see that Bernard is the youngest penguin with an age of 5.
+So the answer is (B).
+
+
+Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  What is the name of the second penguin sorted by alphabetic order?
+Options:
+(A) Louis
+(B) Bernard
+(C) Vincent
+(D) Gwen
+(E) James
+A: Let's think step by step.
+We are given a table with the information of several penguins. We need to find the name of the second penguin sorted by alphabetic order.
+First, let's identify the name of each penguin in the table. In this case, the names are in the first column. So, the names are Louis, Bernard, Vincent, and Gwen.
+Next, let's sort the penguins by alphabetical order. The penguins listed in alphabetical order are Bernard, Gwen, Louis, and Vincent.
+Therefore, the name of the second penguin sorted by alphabetical order is Gwen.
+So the answer is (D).
+
+
+Q: {}
+A: Let's think step by step.

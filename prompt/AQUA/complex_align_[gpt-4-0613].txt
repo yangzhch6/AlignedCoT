@@ -1,0 +1,128 @@
+[Question]: there were 35 students in a hostel . due to the admission of 7 new students the expenses of the mess were increased by rs . 84 per day while the average expenditure per head diminished by re 1 . what was the original expenditure of the mess ?
+[Options]: (a) rs 450 (b) rs 920 (c) rs 550 (d) rs . 630 (e) none of these
+[Solution]: 
+Let's think step by step.
+The original number of students was 35 and the original expenditure was X. So, the original average expenditure per head was X/35.
+After the admission of 7 new students, the total number of students became 42 and the total expenditure became X+84. So, the new average expenditure per head was (X+84)/42.
+According to the problem, the new average expenditure per head is 1 less than the original average expenditure per head. So, we can write the equation as follows: X/35 - (X+84)/42 = 1.
+Now, let's solving the above equation, 
+Multiplying both sides by 35 * 42, we get 42X - 35(X+84) = 35*42.
+Simplifying, we get 7X - 35*84 = 35*42.
+7X = 35*84 + 35*42 = 35(84 + 42) = 35*126 = 35*7*18.
+X = 35*18 = 630.
+So, the original expenditure of the mess was Rs. 630.
+Answer: D
+
+
+[Question]: a train 200 m long passes a man , running at 5 km / hr in the same direction in which the train is going , in 10 seconds . the speed of the train is ?
+[Options]: (a) 28 (b) 50 (c) 77 (d) 22 (e) 12
+[Solution]: 
+Let's think step by step.
+Convert the speed of the man from km/hr to m/s. 
+We know that 1 km/hr = 5/18 m/s. So, the speed of the man is 5*(5/18) = 25/18 m/s.
+The train passes the man in 10 seconds. This means the relative speed of the train to the man is the distance divided by the time, which is 200m/10s = 20 m/s.
+The actual speed of the train is the relative speed plus the speed of the man, because they are moving in the same direction. So, the speed of the train is 20 m/s + 25/18 m/s = 385/18 m/s.
+Convert the speed of the train from m/s to km/hr. 
+We know that 1 m/s = 18/5 km/hr. So, the speed of the train is (385/18)*(18/5) = 77 km/hr.
+So, the correct answer is 77.
+Answer: C
+
+
+[Question]: solution x contains 20 % of material a and 80 % of material b . solution y contains 30 % of material a and 70 % of material b . a mixture of both these solutions contains 22 % of material a in the final product . how much solution x is present in the mixture ?
+[Options]: (a) 40 % (b) 60 % (c) 80 % (d) 100 % (e) 110 %
+[Solution]: 
+Let's think step by step.
+Let's assume that the amount of solution X used is x% and the amount of solution Y used is (100-x)%.
+The amount of material A in the final mixture is given by the sum of the amounts of material A in solutions X and Y. So, we can write the equation as follows: 0.20x + 0.30(100-x) = 22.
+Now, let's solving the above equation, 
+0.20x + 0.30(100-x) = 22
+0.20x + 30 - 0.30x = 22
+0.10x = 8
+x = 80
+So, 80% of solution X is present in the mixture.
+Answer: C
+
+
+[Question]: a trader sells 40 metres of cloth for rs . 8200 at a profit of rs . 35 per metre of cloth . how much profit will the trder earn on 40 metres of cloth ?
+[Options]: (a) rs . 950 (b) rs . 1500 (c) rs . 1000 (d) rs . 1400 (e) none of these
+[Solution]: 
+Let's think step by step.
+The trader earns a profit of Rs. 35 per metre of cloth.
+So, for 40 metres of cloth, the trader will earn a profit of 40*35 = Rs. 1400.
+So, the trader will earn a profit of Rs. 1400 on 40 metres of cloth.
+Answer: D
+
+
+[Question]: if x < y < z and y - x > 5 , where x is an even integer and y and z are odd integers , what is the least possible value s of z - x ?
+[Options]: (a) 6 (b) 7 (c) 8 (d) 9 (e) 10
+[Solution]: 
+Let's think step by step.
+Since x is an even integer and y is an odd integer, the difference between y and x must be an odd number. Given that y - x > 5, the smallest possible value for y - x is 7.
+Since y < z and y and z are both odd integers, the smallest possible difference between y and z is 2 (because odd numbers are 2 units apart).
+Therefore, the smallest possible value for z - x is the sum of the smallest possible values for y - x and y - z, which is 7 + 2 = 9.
+So, the least possible value of z - x is 9.
+Answer: D
+
+
+[Question]: what is the difference between the c . i . on rs . 6000 for 1 1 / 2 years at 4 % per annum compounded yearly and half - yearly ?
+[Options]: (a) s . 2.04 (b) s . 2.08 (c) s . 2.02 (d) s . 2.83 (e) s . 2.45
+[Solution]: 
+Let's think step by step.
+Calculate the compound interest (C.I.) when compounded yearly. 
+The formula for C.I. is A = P(1 + r/n)^(nt), where 
+A is the amount, 
+P is the principal, 
+r is the rate of interest, 
+n is the number of times interest is compounded per time period, 
+and t is the time. 
+Here, P = Rs. 6000, r = 4/100 = 0.04, n = 1 (since it's compounded yearly), and t = 1.5 years. 
+However, the rest half year in the 1.5 years time period can not cover the whole compound period. People can only get half interest for the rest half year.
+So, A = 6000(1 + 0.04/1)(1 + 0.5*0.04/1)
+= 6000(1.04)(1.02)
+= 6000 * 1.0608
+= 6364.8
+The C.I. is A - P = Rs. 6364.8 - Rs. 6000 = Rs. 364.8.
+Calculate the C.I. when compounded half-yearly. Now, n = 2 (since it's compounded half-yearly). 
+So, A = 6000(1 + 0.04/2)^(2*1.5)
+= 6000(1.02)^3
+= 6000 * 1.061208
+= 6367.248
+The C.I. is A - P = Rs. 6367.248 - Rs. 6000 = Rs. 367.248.
+The difference between the C.I. when compounded yearly and half-yearly is Rs. 367.248 - Rs. 364.8 = Rs. 2.448. = Rs. 2.45
+So, the correct answer is Rs. 2.45.
+Answer: E
+
+
+[Question]: the average weight of a , b and c is 45 kg . if the average weight of a and b be 40 kg and that of b and c be 45 kg , then the weight of b is :
+[Options]: (a) 31 kg (b) 32 kg (c) 33 kg (d) 35 kg (e) none of these
+[Solution]: 
+Let's think step by step.
+The average weight of a, b, and c is 45 kg. So, (a + b + c)/3 = 45 kg.
+Then, a + b + c = 45*3 = 135 kg.
+The average weight of a and b is 40 kg. So, (a + b)/2 = 40 kg.
+Then, a + b = 40*2 = 80 kg.
+The average weight of b and c is 45 kg. So, (b + c)/2 = 45 kg.
+Then, b + c = 45*2 = 90 kg.
+Now, we have a + b = 80 kg and b + c = 90 kg. So, a + b + b + c = 80 + 90 = 170 kg.
+We already know that a + b + c = 135 kg. So, 135 = 170 - b.
+Then, b = 170 - 135 = 35 kg.
+So, the weight of b is 35 kg. 
+Answer: D
+
+
+[Question]: the compound and the simple interests on a certain sum at the same rate of interest for two years are rs . 11730 and rs . 10200 respectively . find the sum
+[Options]: (a) rs . 17037 (b) rs . 17000 (c) rs . 17276 (d) rs . 170287 (e) rs . 171881
+[Solution]: 
+Let's think step by step.
+The difference between the compound interest and the simple interest for two years gives the interest for one year on the simple interest for one year. So, the interest for one year is Rs. 11730 - Rs. 10200 = Rs. 1530.
+The simple interest for two years is Rs. 10200, so the simple interest for one year is Rs. 10200 / 2 = Rs. 5100.
+The rate of interest is the interest for one year divided by the principal amount. So, the rate of interest is Rs. 1530 / Rs. 5100 = 0.3 or 30%.
+The principal amount is the simple interest for one year divided by the rate of interest. So, the principal amount is Rs. 5100 / 0.3 = Rs. 17000.
+So, the sum is Rs. 17000.
+Answer: B
+
+
+[Question]: {}
+[Options]: {}
+[Solution]: 
+Let's think step by step.

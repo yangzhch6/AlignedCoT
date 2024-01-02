@@ -1,0 +1,93 @@
+[Question]: Adam bought 9.0 packages of cat food and 7.0 packages of dog food. Each package of cat food contained 10.0 cans, and each package of dog food contained 5.0 cans. How many more cans of cat food than dog food did Adam buy?
+[Solution]:
+Let's think step by step.
+1. Calculate the total number of cans of cat food. To find the total number of cans of cat food, we need to multiply the number of packages of cat food by the number of cans in each package. 9.0 packages of cat food * 10.0 cans per package = 90.0 cans of cat food.
+2. Calculate the total number of cans of dog food. To find the total number of cans of dog food, we need to multiply the number of packages of dog food by the number of cans in each package. 7.0 packages of dog food * 5.0 cans per package = 35.0 cans of dog food.
+3. Calculate the difference in the number of cans of cat food and dog food. To find the difference, we subtract the total number of cans of dog food from the total number of cans of cat food. 90.0 cans of cat food - 35.0 cans of dog food = 55.0 cans.
+Therefore, Adam bought 55.0 more cans of cat food than dog food.
+Answer: 55.0
+
+
+[Question]: In a bag there are 13.0 red marbles, 5.0 blue marbles, and 7.0 green marbles. What percent of the marbles are green?
+[Solution]:
+Let's think step by step.
+1. Find the total number of marbles in the bag. Total number of marbles = 13.0 red marbles + 5.0 blue marbles + 7.0 green marbles = 25.0 marbles
+2. Find the number of green marbles as a fraction of the total number of marbles. Fraction of green marbles = Number of green marbles / Total number of marbles = 7.0 / 25.0
+3. Convert the fraction to a percentage. Percentage of green marbles = Fraction of green marbles * 100 = (7.0 / 25.0) * 100 = 28.0%
+Therefore, 28.0% of the marbles are green.
+Answer: 28
+
+
+[Question]: Mika had 20.0 stickers. She bought 26.0 stickers from a store in the mall and got 20.0 stickers for her birthday. Then Mika gave 6.0 of the stickers to her sister and used 58.0 to decorate a greeting card. How many stickers does Mika have left?
+[Solution]:
+Let's think step by step.
+1. Mika had 20.0 stickers.
+2. She bought 26.0 stickers from a store in the mall, so now she has 20.0 + 26.0 = 46.0 stickers.
+3. She also got 20.0 stickers for her birthday, so now she has 46.0 + 20.0 = 66.0 stickers.
+4. Mika gave 6.0 stickers to her sister, so now she has 66.0 - 6.0 = 60.0 stickers.
+5. Mika used 58.0 stickers to decorate a greeting card, so now she has 60.0 - 58.0 = 2.0 stickers left.
+Therefore, Mika has 2.0 stickers left.
+Answer: 2.0
+
+
+[Question]: Luke had 20.0 stickers. He bought 12.0 stickers from a store in the mall and got 20.0 stickers for his birthday. Then Luke gave 5.0 of the stickers to his sister and used 8.0 to decorate a greeting card. How many stickers does Luke have left?
+[Solution]:
+Let's think step by step.
+1. Luke had 20.0 stickers.
+2. He bought 12.0 stickers from a store in the mall, so he now has 20.0 + 12.0 = 32.0 stickers.
+3. He also received 20.0 stickers for his birthday, so he now has 32.0 + 20.0 = 52.0 stickers.
+4. Luke gave 5.0 stickers to his sister, so he now has 52.0 - 5.0 = 47.0 stickers.
+5. He used 8.0 stickers to decorate a greeting card, so he now has 47.0 - 8.0 = 39.0 stickers left.
+Therefore, Luke has 39.0 stickers left.
+Answer: 39.0
+
+
+[Question]: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed?
+[Solution]:
+Let's think step by step.
+1. Start with a 24.0 yard length of cloth.
+2. Remove 3.0 pieces, each 3.5 yards long. This is a total of 3.0 * 3.5 = 10.5 yards.
+3. Subtract the length of the removed pieces from the original length: 24.0 - 10.5 = 13.5 yards remaining.
+4. Remove 5.0 pieces, each 2.25 yards long. This is a total of 5.0 * 2.25 = 11.25 yards.
+5. Subtract the length of the second set of removed pieces from the remaining length: 13.5 - 11.25 = 2.25 yards remaining.
+Therefore, after removing the specified pieces, there are 2.25 yards of material remaining from the original 24.0 yard length of cloth.
+Answer: 2.25
+
+
+[Question]: If Bob can make 100.0 feet of rope in 2.0 hours and Tim can make 75.0 feet of rope in 2.0 hours, how many feet of rope can Bob and Tim working together make in 4.0 hours?
+[Solution]:
+Let's think step by step.
+1. Let's find out how much rope Bob can make in 1 hour. We can do this by dividing the total amount of rope Bob can make in 2 hours (100.0 feet) by the number of hours (2.0 hours).  Bob's rate of making rope = 100.0 feet / 2.0 hours = 50.0 feet/hour
+2. Let's find out how much rope Tim can make in 1 hour. We can do this by dividing the total amount of rope Tim can make in 2 hours (75.0 feet) by the number of hours (2.0 hours). Tim's rate of making rope = 75.0 feet / 2.0 hours = 37.5 feet/hour
+3. Let's find out how much rope Bob and Tim can make together in 1 hour. We can do this by adding their individual rates of making rope. Bob and Tim's combined rate of making rope = Bob's rate + Tim's rate = 50.0 feet/hour + 37.5 feet/hour = 87.5 feet/hour
+4. Let's find out how much rope Bob and Tim can make together in 4 hours. We can do this by multiplying their combined rate of making rope by the number of hours (4.0 hours). Total rope made by Bob and Tim in 4 hours = Combined rate * Number of hours = 87.5 feet/hour * 4.0 hours = 350.0 feet
+Therefore, Bob and Tim working together can make 350.0 feet of rope in 4.0 hours.
+Answer: 350.0
+
+
+[Question]: A neighborhood grocer sells a mix of chocolate and carob candy. The chocolate cost 2.7 dollars a pound and the carob costs 2.55 dollars a pound. If 20.0 pounds of the chocolate and 40.0 pounds of the carob candy are used, what is the cost per pound of the mixture in dollars?
+[Solution]:
+Let's think step by step.
+1. We need to find the total cost of the chocolate candy. We can do this by multiplying the cost per pound ($2.7) by the number of pounds (20.0): Total cost of chocolate candy = $2.7/pound * 20.0 pounds = $54.0
+2. We need to find the total cost of the carob candy. We can do this by multiplying the cost per pound ($2.55) by the number of pounds (40.0): Total cost of carob candy = $2.55/pound * 40.0 pounds = $102.0
+3. We can find the total cost of the mixture by adding the total cost of the chocolate candy and the total cost of the carob candy: Total cost of mixture = $54.0 + $102.0 = $156.0
+4. We can find the cost per pound of the mixture by dividing the total cost of the mixture by the total weight of the mixture (20.0 pounds + 40.0 pounds = 60.0 pounds): Cost per pound of mixture = $156.0 / 60.0 pounds = $2.6
+Therefore, the cost per pound of the mixture is $2.6.
+Answer: 2.60
+
+
+[Question]: Tim got 3.0 nickels and 13.0 dimes for shining shoes, and in his tip jar found 7.0 dimes and 9.0 half - dollars. How much money did Tim get?
+[Solution]:
+Let's think step by step.
+1. Tim got 3.0 nickels, which means he received 3.0 * $0.05 = $0.15 from the nickels.
+2. Tim also got 13.0 dimes, which means he received 13.0 * $0.10 = $1.30 from the dimes.
+3. In his tip jar, Tim found 7.0 dimes, which means he received an additional 7.0 * $0.10 = $0.70 from the dimes in the tip jar.
+4. Tim also found 9.0 half-dollars, which means he received an additional 9.0 * $0.50 = $4.50 from the half-dollars in the tip jar.
+5. Adding up all the amounts, Tim received $0.15 + $1.30 + $0.70 + $4.50 = $6.65 in total.
+Therefore, Tim get $6.65.
+Answer: 6.65
+
+
+[Question]: {}
+[Solution]:
+Let's think step by step.

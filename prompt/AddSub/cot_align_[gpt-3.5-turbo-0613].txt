@@ -1,0 +1,1 @@
+../GSM8k/cot_align_[gpt-3.5-turbo-0613].txt

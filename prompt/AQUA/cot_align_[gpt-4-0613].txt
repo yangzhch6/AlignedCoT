@@ -1,0 +1,50 @@
+[Question]: John found that the average of 15 numbers is 40. If 10 is added to each number then the mean of the numbers is?
+[Options]: A)50, B)45, C)65, D)78, E)64
+[Solution]: 
+Let's think step by step.
+Step 1: We know the average of 15 numbers is 40, which means the total sum of these numbers is 15 * 40 = 600.
+Step 2: If 10 is added to each number, the total sum increases by 10 * 15 = 150.
+Step 3: So, the new total sum is 600 + 150 = 750.
+Step 4: The new average or mean is the total sum divided by the number of numbers, which is 750/15 = 50.
+So, the new mean of the numbers is 50.
+Answer: A
+
+[Question]: If a / b = 3/4 and 8a + 5b = 22,then find the value of a.
+[Options]: A)1/2, B)3/2, C)5/2, D)4/2, E)7/2
+[Solution]: 
+Let's think step by step.
+Step 1: From the first equation, we can express a in terms of b. That is a = 3b/4.
+Step 2: Substitute a = 3b/4 into the second equation. We get 8(3b/4) + 5b = 22, which simplifies to 6b + 5b = 22.
+Step 3: Combine like terms to get 11b = 22.
+Step 4: Solve for b by dividing both sides by 11. We get b = 2.
+Step 5: Substitute b = 2 into the equation a = 3b/4 to get a = 3(2)/4 = 3/2.
+So, the value of a is 3/2. 
+Answer: B
+
+[Question]: A person is traveling at 20 km/hr and reached his destiny in 2.5 hr then find the distance?
+[Options]: A)53 km, B)55 km, C)52 km, D)60 km, E)50 km
+[Solution]: 
+Let's think step by step.
+Step 1: We know the speed of the person which is 20 km/hr.
+Step 2: We also know the time taken by the person to reach his destination which is 2.5 hr.
+Step 3: We need to find the distance. We know that distance = speed * time.
+Step 4: Substituting the given values in the formula, we get distance = 20 km/hr * 2.5 hr = 50 km.
+So, the person traveled a distance of 50 km.
+Answer: E
+
+[Question]: How many keystrokes are needed to type the numbers from 1 to 500?
+[Options]: A)1156, B)1392, C)1480, D)1562, E)1788
+[Solution]: 
+Let's think step by step.
+Step 1: For 1 to 9, we have 9 numbers, each of which is a single digit, so we need 9 keystrokes.
+Step 2: For 10 to 99, we have 90 numbers, each of which is a double digit, so we need 90 * 2 = 180 keystrokes.
+Step 3: For 100 to 499, we have 400 numbers, each of which is a triple digit, so we need 400 * 3 = 1200 keystrokes.
+Step 4: For 500, this is a triple digit number, so we need 3 keystrokes.
+Step 5: Adding all these up, we get 9 + 180 + 1200 + 3 = 1392 keystrokes.
+So, to type the numbers from 1 to 500, we need 1392 keystrokes.
+Answer: B
+
+[Question]: {}
+[Options]: {}
+[Solution]: 
+Let's think step by step.

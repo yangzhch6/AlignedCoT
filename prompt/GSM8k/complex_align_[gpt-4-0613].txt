@@ -1,0 +1,95 @@
+[Question]: Angelo and Melanie want to plan how many hours over the next week they should study together for their test next week. They have 2 chapters of their textbook to study and 4 worksheets to memorize. They figure out that they should dedicate 3 hours to each chapter of their textbook and 1.5 hours for each worksheet. If they plan to study no more than 4 hours each day, how many days should they plan to study total over the next week if they take a 10-minute break every hour, include 3 10-minute snack breaks each day, and 30 minutes for lunch each day?
+[Solution]:
+Let's think step by step.
+First, calculate the total time they need to study the textbook and worksheets. They need 3 hours for each of the 2 chapters, which is 3*2=6 hours. They also need 1.5 hours for each of the 4 worksheets, which is 1.5*4=6 hours. So, they need a total of 6+6=12 hours to study.
+Next, calculate the total break time each day. They take a 10-minute break every hour, which is 10*4=40 minutes. They also take 3 10-minute snack breaks, which is 3*10=30 minutes. Plus, they take 30 minutes for lunch. So, they take a total of 40+30+30=100 minutes of breaks each day. Convert this to hours by dividing by 60, which is 100/60=1.67 hours.
+Subtract the break time from the total hours they can study each day to find out how many hours they can actually study each day. They can study 4 hours each day, but they take 1.67 hours of breaks, so they can actually study 4-1.67=2.33 hours each day.
+Finally, divide the total hours they need to study by the hours they can actually study each day to find out how many days they need to study. They need to study 12 hours total and can study 2.33 hours each day, so they need to study 12/2.33=5.15 days. Since they can't study for a fraction of a day, they should plan to study for 6 days.
+Answer: 6
+
+
+[Question]: Mark's basketball team scores 25 2 pointers, 8 3 pointers and 10 free throws.  Their opponents score double the 2 pointers but half the 3 pointers and free throws.  What's the total number of points scored by both teams added together?
+[Solution]:
+Let's think step by step.
+First, calculate the total points scored by Mark's team. A 2 pointer is worth 2 points, a 3 pointer is worth 3 points and a free throw is worth 1 point. So Mark's team scores 25 * 2 + 8 * 3 + 10 * 1 = 50 + 24 + 10 = 84 points.
+Next, calculate the total points scored by their opponents. They score double the 2 pointers, so that's 25 * 2 * 2 = 100 points. They score half the 3 pointers, so that's 8 * 3 / 2 = 12 points. They also score half the free throws, so that's 10 * 1 / 2 = 5 points. So their opponents score 100 + 12 + 5 = 117 points.
+Finally, add the points scored by both teams to find the total: 84 + 117 = 201 points.
+Answer: 201
+
+
+[Question]: Bella has two times as many marbles as frisbees. She also has 20 more frisbees than deck cards. If she buys 2/5 times more of each item, what would be the total number of the items she will have if she currently has 60 marbles?
+[Solution]:
+Let's think step by step.
+First, we know that Bella has two times as many marbles as frisbees. So if she has 60 marbles, she has 60/2 = 30 frisbees.
+Next, we know that Bella has 20 more frisbees than deck cards. So she has 30 - 20 = 10 deck cards.
+So currently, Bella has 60 marbles + 30 frisbees + 10 deck cards = 100 items.
+If Bella buys 2/5 times more of each item, she will have 2/5 * 60 = 24 more marbles, 2/5 * 30 = 12 more frisbees, and 2/5 * 10 = 4 more deck cards.
+So in total, Bella will have 100 + 24 + 12 + 4 = 140 items.
+Answer: 140
+
+
+[Question]: A group of 4 fruit baskets contains 9 apples, 15 oranges, and 14 bananas in the first three baskets and 2 less of each fruit in the fourth basket. How many fruits are there?
+[Solution]:
+Let's think step by step.
+First, we need to find out how many fruits are in the first three baskets. In each basket, there are 9 apples, 15 oranges, and 14 bananas. So, in total, there are 9+15+14 = 38 fruits in each basket. Since there are three such baskets, there are 3*38 = 114 fruits in the first three baskets.
+Next, we need to find out how many fruits are in the fourth basket. We know that there are 2 less of each fruit in the fourth basket. So, there are 9-2 = 7 apples, 15-2 = 13 oranges, and 14-2 = 12 bananas in the fourth basket. In total, there are 7+13+12 = 32 fruits in the fourth basket.
+Finally, to find out how many fruits are there in total, we need to add the number of fruits in the first three baskets and the number of fruits in the fourth basket. So, there are 114+32 = 146 fruits in total.
+Answer: 146
+
+
+[Question]: You can buy 4 apples or 1 watermelon for the same price. You bought 36 fruits evenly split between oranges, apples and watermelons, and the price of 1 orange is $0.50. How much does 1 apple cost if your total bill was $66?
+[Solution]:
+Let's think step by step.
+First, since the fruits are evenly split, it means you bought 12 of each fruit (12 oranges, 12 apples, and 12 watermelons).
+Next, we know that the price of 1 orange is $0.50. So, the total cost for the oranges is 12 * $0.50 = $6.
+We also know that the total bill was $66. So, the cost for the apples and watermelons is $66 - $6 = $60.
+Since 4 apples cost the same as 1 watermelon, it means that 12 apples cost the same as 3 watermelons. Therefore, the cost for 12 apples and 12 watermelons (which is 15 fruits in total) is $60.
+So, the cost for 1 fruit (either an apple or a watermelon) is $60 / 15 = $4.
+Therefore, since 4 apples cost $4, 1 apple costs $4 / 4 = $1
+Answer: 1
+
+
+[Question]: Susy goes to a large school with 800 students, while Sarah goes to a smaller school with only 300 students.  At the start of the school year, Susy had 100 social media followers.  She gained 40 new followers in the first week of the school year, half that in the second week, and half of that in the third week.  Sarah only had 50 social media followers at the start of the year, but she gained 90 new followers the first week, a third of that in the second week, and a third of that in the third week.  After three weeks, how many social media followers did the girl with the most total followers have?
+[Solution]:
+Let's think step by step.
+In the first week, Susy gained 40 new followers, so she had 100 + 40 = 140 followers.
+In the second week, she gained half of 40, which is 40 / 2 = 20 new followers, so she had 140 + 20 = 160 followers.
+In the third week, she gained half of 20, which is 20 / 2 = 10 new followers, so she had 160 + 10 = 170 followers.
+On the other hand, Sarah gained 90 new followers in the first week, so she had 50 + 90 = 140 followers.
+In the second week, she gained a third of 90, which is 90 / 3 = 30 new followers, so she had 140 + 30 = 170 followers.
+In the third week, she gained a third of 30, which is 30 / 3 = 10 new followers, so she had 170 + 10 = 180 followers.
+Therefore, the girl with the most total followers after three weeks is Sarah, with 180 followers.
+Answer: 180
+
+
+[Question]: Sam bought a dozen boxes, each with 30 highlighter pens inside, for $10 each box. He rearranged five of these boxes into packages of six highlighters each and sold them for $3 per package. He sold the rest of the highlighters separately at the rate of three pens for $2. How much profit did he make in total, in dollars?
+[Solution]:
+Let's think step by step.
+First, we calculate the total cost of the boxes. Sam bought a dozen boxes, which is 12 boxes, at $10 each. So, the total cost is 12 * $10 = $20.
+Next, we calculate how many highlighters Sam has in total. Each box has 30 highlighters, so 12 boxes have 12 * 30 = 360 highlighters.
+Then, we calculate how many packages of six highlighters Sam made. He rearranged five boxes into packages of six highlighters each. So, he made 5 * 30 / 6 = 25 packages.
+We calculate how much money Sam made from selling these packages. He sold them for $3 each, so he made 25 * $3 = $75.
+Next, we calculate how many highlighters Sam sold separately. He sold the rest of the highlighters separately, which is 360 - 5 * 30 = 210 highlighters.
+We calculate how much money Sam made from selling these highlighters. He sold them at the rate of three pens for $2, so he made 210 / 3 * $2 = $140.
+Finally, we calculate Sam's profit. His profit is the money he made minus the cost, which is $75 + $140 - $120 = $95. So, Sam made a profit of $95
+Answer: 95
+
+
+[Question]: In a certain school, 2/3 of the male students like to play basketball, but only 1/5 of the female students like to play basketball. What percent of the population of the school do not like to play basketball if the ratio of the male to female students is 3:2 and there are 1000 students?
+[Solution]:
+Let's think step by step.
+First, let's find out how many male and female students there are in the school. The ratio of male to female students is 3:2, which means for every 3 male students, there are 2 female students. 
+So, out of 5 parts (3+2), 3 parts are male and 2 parts are female. 
+Therefore, the number of male students is (3/5)*1000 = 600 and the number of female students is (2/5)*1000 = 400.
+Next, let's find out how many students like to play basketball. 
+2/3 of the male students like to play basketball, so (2/3)*600 = 400 male students like to play basketball. 
+1/5 of the female students like to play basketball, so (1/5)*400 = 80 female students like to play basketball. 
+So, a total of 400+80 = 480 students like to play basketball.
+Therefore, the number of students who do not like to play basketball is 1000 - 480 = 520.
+So, the percentage of students who do not like to play basketball is (520/1000)*100 = 52%.
+Answer: 52
+
+
+[Question]: {}
+[Solution]:
+Let's think step by step.

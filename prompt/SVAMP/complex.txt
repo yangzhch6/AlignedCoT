@@ -1,0 +1,87 @@
+[Question]: Adam bought 9.0 packages of cat food and 7.0 packages of dog food. Each package of cat food contained 10.0 cans, and each package of dog food contained 5.0 cans. How many more cans of cat food than dog food did Adam buy?
+[Solution]:
+Let's think step by step.
+Adam bought 9.0 packages of cat food, and each package contained 10.0 cans, so he bought a total of 9.0 * 10.0 = 90.0 cans of cat food.
+Adam also bought 7.0 packages of dog food, and each package contained 5.0 cans, so he bought a total of 7.0 * 5.0 = 35.0 cans of dog food.
+Therefore, Adam bought 90.0 - 35.0 = 55.0 more cans of cat food than dog food.
+Answer: 55.0
+
+
+[Question]: In a bag there are 13.0 red marbles, 5.0 blue marbles, and 7.0 green marbles. What percent of the marbles are green?
+[Solution]:
+Let's think step by step.
+To find the percentage of green marbles, we need to divide the number of green marbles by the total number of marbles and then multiply by 100.
+The total number of marbles is 13.0 + 5.0 + 7.0 = 25.0
+The number of green marbles is 7.0
+So, the percentage of green marbles is (7.0/25.0) * 100 = 28%
+Answer: 28
+
+
+[Question]: Mika had 20.0 stickers. She bought 26.0 stickers from a store in the mall and got 20.0 stickers for her birthday. Then Mika gave 6.0 of the stickers to her sister and used 58.0 to decorate a greeting card. How many stickers does Mika have left?
+[Solution]:
+Let's think step by step.
+Mika starts with 20.0 stickers.
+She buys 26.0 stickers, so she now has 20.0 + 26.0 = 46.0 stickers.
+She also receives 20.0 stickers for her birthday, so she now has 46.0 + 20.0 = 66.0 stickers.
+Mika gives 6.0 stickers to her sister, so she now has 66.0 - 6.0 = 60.0 stickers.
+She uses 58.0 stickers to decorate a greeting card, so she now has 60.0 - 58.0 = 2.0 stickers left.
+Answer: 2.0
+
+
+[Question]: Luke had 20.0 stickers. He bought 12.0 stickers from a store in the mall and got 20.0 stickers for his birthday. Then Luke gave 5.0 of the stickers to his sister and used 8.0 to decorate a greeting card. How many stickers does Luke have left?
+[Solution]:
+Let's think step by step.
+Luke started with 20.0 stickers.
+He bought 12.0 stickers, so he now has 20.0 + 12.0 = 32.0 stickers.
+He also received 20.0 stickers for his birthday, so he now has 32.0 + 20.0 = 52.0 stickers.
+He gave 5.0 stickers to his sister, so he now has 52.0 - 5.0 = 47.0 stickers.
+He used 8.0 stickers to decorate a greeting card, so he now has 47.0 - 8.0 = 39.0 stickers left.
+Answer: 39.0
+
+
+[Question]: How many yards of material from a 24.0 yard length of cloth remains after 3.0 pieces each 3.5 yards long and 5.0 pieces each 2.25 long are removed?
+[Solution]:
+Let's think step by step.
+The total length of cloth is 24.0 yards.
+3 pieces of cloth, each 3.5 yards long, are removed. So, 3 x 3.5 = 10.5 yards of cloth are removed.
+5 pieces of cloth, each 2.25 yards long, are removed. So, 5 x 2.25 = 11.25 yards of cloth are removed.
+Therefore, a total of 10.5 + 11.25 = 21.75 yards of cloth are removed.
+The remaining length of cloth is 24.0 - 21.75 = 2.25 yards.
+Answer: 2.25
+
+
+[Question]: If Bob can make 100.0 feet of rope in 2.0 hours and Tim can make 75.0 feet of rope in 2.0 hours, how many feet of rope can Bob and Tim working together make in 4.0 hours?
+[Solution]:
+Let's think step by step.
+Bob can make 100.0 feet of rope in 2.0 hours, so his rate of production is 100.0 feet / 2.0 hours = 50.0 feet per hour.
+Tim can make 75.0 feet of rope in 2.0 hours, so his rate of production is 75.0 feet / 2.0 hours = 37.5 feet per hour.
+Working together, their combined rate of production is 50.0 feet per hour + 37.5 feet per hour = 87.5 feet per hour.
+In 4.0 hours, they can make 87.5 feet per hour * 4.0 hours = 350.0 feet of rope.
+Answer: 350.0
+
+
+[Question]: A neighborhood grocer sells a mix of chocolate and carob candy. The chocolate cost 2.7 dollars a pound and the carob costs 2.55 dollars a pound. If 20.0 pounds of the chocolate and 40.0 pounds of the carob candy are used, what is the cost per pound of the mixture in dollars?
+[Solution]:
+Let's think step by step.
+To find the cost per pound of the mixture, we need to calculate the total cost of the chocolate and carob candy and then divide it by the total weight of the mixture.
+The total cost of the chocolate candy is 20.0 pounds * $2.7/pound = $54.
+The total cost of the carob candy is 40.0 pounds * $2.55/pound = $102.
+The total weight of the mixture is 20.0 pounds + 40.0 pounds = 60.0 pounds.
+Therefore, the cost per pound of the mixture is ($54 + $102) / 60.0 pounds = $156 / 60.0 pounds = $2.60/pound.
+Answer: 2.60
+
+
+[Question]: Tim got 3.0 nickels and 13.0 dimes for shining shoes, and in his tip jar found 7.0 dimes and 9.0 half - dollars. How much money did Tim get?
+[Solution]:
+Let's think step by step.
+Tim got 3.0 nickels, which is equal to 3 * $0.05 = $0.15.
+Tim also got 13.0 dimes, which is equal to 13 * $0.10 = $1.30.
+In his tip jar, Tim found 7.0 dimes, which is equal to 7 * $0.10 = $0.70.
+Tim also found 9.0 half-dollars, which is equal to 9 * $0.50 = $4.50.
+Therefore, Tim got a total of $0.15 + $1.30 + $0.70 + $4.50 = $6.65.
+Answer: 6.65
+
+
+[Question]: {}
+[Solution]:
+Let's think step by step.
