@@ -8,4 +8,6 @@ This is the repo of our paper: [Speak Like a Native: Prompting Large Language Mo
 ## Experimental Results
 <img src="img/result_1.jpg" alt="GPT-3.5-Turbo Results" width="100%" height="auto">
 
-<img src="img/result_2.jpg" alt="GPT-4 Results" width="70%" height="auto" align="middle"> 
+<div align=center>
+<img src="img/result_2.jpg" alt="GPT-4 Results" width="80%" height="auto"> 
+</div>
