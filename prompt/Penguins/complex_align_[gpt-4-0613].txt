@@ -17,7 +17,7 @@ A: Let's think step by step.
 First, let's list all the names of the animals: Louis, Bernard, Vincent, Gwen, James, Jody, Gladys, Marian, Donna.
 When we sort these names in alphabetical order, we get: Bernard, Donna, Gladys, Gwen, James, Jody, Louis, Marian, Vincent. 
 So, the last animal sorted by alphabetic order is Vincent. 
-Therefore, the correct answer is (A) Vincent.
+So the answer is (A).
 
 
 Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  We now add a penguin to the table:
@@ -37,12 +37,9 @@ Options:
 (E) 6
 A: Let's think step by step.
 First, let's look at the penguins. Louis is 7 years old, Bernard is 5 years old, Vincent is 9 years old, Gwen is 8 years old, and James is 12 years old. So, there are 2 penguins that are less than 8 years old: Louis and Bernard.
-
 Now, let's look at the giraffes. Jody is 5 years old, Gladys is 10 years old, Marian is 2 years old, and Donna is 9 years old. So, there are 2 giraffes that are less than 8 years old: Jody and Marian.
-
 Adding these together, there are 2 penguins + 2 giraffes = 4 animals that are less than 8 years old.
-
-So, the answer is (C) 4.
+So the answer is (C).
 
 
 Q: Here is a table where the first line is a header and each subsequent line is a penguin:  name, age, height (cm), weight (kg) Louis, 7, 50, 11 Bernard, 5, 80, 13 Vincent, 9, 60, 11 Gwen, 8, 70, 15  For example: the age of Louis is 7, the weight of Gwen is 15 kg, the height of Bernard is 80 cm.  
@@ -56,7 +53,8 @@ Options:
 (D) Gwen
 (E) James
 A: Let's think step by step.
-First, we need to look at the age of each penguin. Louis is 7, Bernard is 5, Vincent is 9, Gwen is 8, James is 4, and Dick is 5. The youngest penguin is James, who is 4 years old. So, the answer is (E) James.
+First, we need to look at the age of each penguin. Louis is 7, Bernard is 5, Vincent is 9, Gwen is 8, James is 4, and Dick is 5. The youngest penguin is James, who is 4 years old. 
+So the answer is (E).
 
 
 Q: {}
