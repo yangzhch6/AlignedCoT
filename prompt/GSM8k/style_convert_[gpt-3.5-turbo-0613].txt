@@ -1,0 +1,132 @@
+[Question]: Angelo and Melanie want to plan how many hours over the next week they should study together for their test next week. They have 2 chapters of their textbook to study and 4 worksheets to memorize. They figure out that they should dedicate 3 hours to each chapter of their textbook and 1.5 hours for each worksheet. If they plan to study no more than 4 hours each day, how many days should they plan to study total over the next week if they take a 10-minute break every hour, include 3 10-minute snack breaks each day, and 30 minutes for lunch each day?
+[Original Solution]:
+Let's think step by step.
+Angelo and Melanie think they should dedicate 3 hours to each of the 2 chapters, 3 hours x 2 chapters = 6 hours total.
+For the worksheets they plan to dedicate 1.5 hours for each worksheet, 1.5 hours x 4 worksheets = 6 hours total.
+However, they need to include time for breaks and lunch. Every hour they want to include a 10-minute break, so 4 total hours x 10 minutes = 40 extra minutes for breaks.
+They also want to include 3 10-minute snack breaks everyday, 3 x 10 minutes = 30 minutes.
+And they want to include 30 minutes for lunch each day, so 40 minutes for breaks + 30 minutes for snack breaks + 30 minutes for lunch = 100 minutes, or 100 / 60 minutes per hour = 1.67 extra hours.
+So, the total time they can study each day is 4 - 1.67 = 2.33 hours.
+So they need 12 hours / 2.33 hours each day = 5.15 days to study.
+Rounding up, the result is 6, so they need 6 days to study.
+Answer: 6
+[Converted Solution]:
+Let's think step by step.
+STEP 1: Calculate the total time needed to study the textbook chapters.
+They have 2 chapters of their textbook to study, and they plan to dedicate 3 hours to each chapter.
+So, the total time needed to study the textbook chapters is 2 * 3 = 6 hours.
+STEP 2: Calculate the total time needed to memorize the worksheets.
+They have 4 worksheets to memorize, and they plan to dedicate 1.5 hours for each worksheet.
+So, the total time needed to memorize the worksheets is 4 * 1.5 = 6 hours.
+STEP 3: Calculate the total time needed for breaks and meals each day.
+They take a 10-minute break every hour, so in a 4-hour study session, they will have 4 * 10 = 40 minutes of breaks.
+They also have 3 10-minute snack breaks each day, so they will have 3 * 10 = 30 minutes of snack breaks.
+They have 30 minutes for lunch each day.
+So, the total time needed for breaks and meals each day is 40 + 30 + 30 = 100 minutes, which is equal to 100/60 = 1.67 hours.
+STEP 4: Calculate the total time needed to study each day.
+They plan to study no more than 4 hours each day, and they need to subtract the time needed for breaks and meals.
+So, the total time they can study each day is 4 - 1.67 = 2.33 hours.
+STEP 5: Calculate the total number of days needed to study.
+They need a total of 6 hours to study the textbook chapters and 6 hours to memorize the worksheets.
+So, the total time needed to study is 6 + 6 = 12 hours.
+Since they can study 2.33 hours each day, they will need 12 / 2.33 = 5.15 days to complete their study.
+Since they can't study for a fraction of a day, they should plan to study for 6 days.
+Therefore, they should plan to study for a total of 6 days over the next week.
+Answer: 6
+
+
+[Question]: Mark's basketball team scores 25 2 pointers, 8 3 pointers and 10 free throws.  Their opponents score double the 2 pointers but half the 3 pointers and free throws.  What's the total number of points scored by both teams added together?
+[Original Solution]:
+Let's think step by step.
+Mark's team scores 25 2 pointers, meaning they scored 25*2= 50 points in 2 pointers.
+His team also scores 6 3 pointers, meaning they scored 8*3= 24 points in 3 pointers
+They scored 10 free throws, and free throws count as one point so they scored 10*1=10 points in free throws.
+All together his team scored 50+24+10= 84 points
+Mark's opponents scored double his team's number of 2 pointers, meaning they scored 50*2=100 points in 2 pointers.
+His opponents scored half his team's number of 3 pointers, meaning they scored 24/2= 12 points in 3 pointers.
+They also scored half Mark's team's points in free throws, meaning they scored 10/2=5 points in free throws.
+All together Mark's opponents scored 100+12+5=117 points
+The total score for the game is both team's scores added together, so it is 84+117=201 points
+Answer: 201
+[Converted Solution]:
+Let's think step by step.
+STEP 1: Calculate the number of points scored by Mark's team.
+Mark's team scores 25 2 pointers, which means they score 25 * 2 = 50 points from 2 pointers.
+They also score 8 3 pointers, which means they score 8 * 3 = 24 points from 3 pointers.
+Finally, they score 10 free throws, which means they score 10 * 1 = 10 points from free throws.
+Therefore, the total number of points scored by Mark's team is 50 + 24 + 10 = 84 points.
+STEP 2: Calculate the number of points scored by the opponents.
+The opponents score double the 2 pointers, which means they score 2 * 50 = 100 points from 2 pointers.
+They also score half the 3 pointers, which means they score 0.5 * 24 = 12 points from 3 pointers.
+Finally, they score half the free throws, which means they score 0.5 * 10 = 5 points from free throws.
+Therefore, the total number of points scored by the opponents is 100 + 12 + 5 = 117 points.
+STEP 3: Calculate the total number of points scored by both teams.
+The total number of points scored by both teams is 84 + 117 = 201 points.
+Answer: 201
+
+
+[Question]: A group of 4 fruit baskets contains 9 apples, 15 oranges, and 14 bananas in the first three baskets and 2 less of each fruit in the fourth basket. How many fruits are there?
+[Original Solution]:
+Let's think step by step.
+For the first three baskets, the number of apples and oranges in one basket is 9+15=24
+In total, together with bananas, the number of fruits in one basket is 24+14=38 for the first three baskets.
+Since there are three baskets each having 38 fruits, there are 3*38=114 fruits in the first three baskets.
+The number of apples in the fourth basket is 9-2=7
+There are also 15-2=13 oranges in the fourth basket
+The combined number of oranges and apples in the fourth basket is 13+7=20
+The fourth basket also contains 14-2=12 bananas.
+In total, the fourth basket has 20+12=32 fruits.
+The four baskets together have 32+114=146 fruits.
+Answer: 146
+[Converted Solution]:
+Let's think step by step.
+STEP 1: Figure out the total number of fruits in the first three baskets.
+In each of the first three basket, there are 9 apples + 15 oranges + 14 bananas = 38 fruits.
+So, in the first three baskets, there are a total of 38 fruits * 3 = 114 fruits.
+STEP 2: Figure out the number of fruits in the fourth basket.
+In the fourth basket, there are 2 less of each fruit compared to the first three baskets.
+So, there are 9 apples - 2 = 7 apples.
+There are 15 oranges - 2 = 13 oranges.
+There are 14 bananas - 2 = 12 bananas.
+Therefore, in the fourth basket, there are a total of 7 apples + 13 oranges + 12 bananas = 32 fruits.
+STEP 3: Figure out the total number of fruits in all four baskets.
+The four baskets together have 114 (total fruits in the first three baskets) + 32 (fruits in the fourth basket) = 146 fruits.
+Answer: 146
+
+
+[Question]: In a certain school, 2/3 of the male students like to play basketball, but only 1/5 of the female students like to play basketball. What percent of the population of the school do not like to play basketball if the ratio of the male to female students is 3:2 and there are 1000 students?
+[Original Solution]:
+Let's think step by step.
+The students are divided into 3 + 2 = 5 parts where 3 parts are for males and 2 parts are for females.
+Each part represents 1000/5 = 200 students.
+So, there are 3 x 200 = 600 males.
+And there are 2 x 200 = 400 females.
+Hence, 600 x 2/3 = 400 males play basketball.
+And 400 x 1/5 = 80 females play basketball.
+A total of 400 + 80 = 480 students play basketball.
+Therefore, 1000 - 480 = 520 do not like to play basketball.
+The percentage of the school that do not like to play basketball is 520/1000 * 100 = 52
+Answer: 52
+[Converted Solution]:
+Let's think step by step.
+STEP 1: Figure out the number of male and female students in the school.
+The students are divided into 3 + 2 = 5 parts where 3 parts are for males and 2 parts are for females.
+Each part represents 1000/5 = 200 students.
+So, there are 3 x 200 = 600 males.
+And there are 2 x 200 = 400 females.
+STEP 2: Figure out the number of males and females who like to play basketball.
+2/3 of the male students like to play basketball. Hence, 600 x 2/3 = 400 males play basketball.
+1/5 of the female students like to play basketball. Hence, 400 x 1/5 = 80 females play basketball.
+STEP 3: Figure out how many people do not like to play basketball.
+A total of 400 + 80 = 480 students play basketball.
+Therefore, 1000 - 480 = 520 do not like to play basketball.
+STEP 4: Calculate the percentage of the population that do not like to play basketball.
+The percentage of the school that do not like to play basketball is 520/1000 * 100 = 52
+Answer: 52
+
+
+[Question]: {}
+[Original Solution]:
+{}
+[Converted Solution]:
+Let's think step by step.
