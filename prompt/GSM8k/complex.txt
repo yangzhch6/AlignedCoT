@@ -12,18 +12,6 @@ Rounding up, the result is 6, so they need 6 days to study.
 Answer: 6
 
 
-Angelo and Melanie think they should dedicate 3 hours to each of the 2 chapters, 3 hours x 2 chapters = 6 hours total.
-For the worksheets they plan to dedicate 1.5 hours for each worksheet, 1.5 hours x 4 worksheets = 6 hours total.
-Angelo and Melanie need to start with planning 12 hours to study, at 4 hours a day, 12 / 4 = 3 days.
-However, they need to include time for breaks and lunch. Every hour they want to include a 10-minute break, so 12 total hours x 10 minutes = 120 extra minutes for breaks.
-They also want to include 3 10-minute snack breaks, 3 x 10 minutes = 30 minutes.
-And they want to include 30 minutes for lunch each day, so 120 minutes for breaks + 30 minutes for snack breaks + 30 minutes for lunch = 180 minutes, or 180 / 60 minutes per hour = 3 extra hours.
-So Angelo and Melanie want to plan 12 hours to study + 3 hours of breaks = 15 hours total.
-They want to study no more than 4 hours each day, 15 hours / 4 hours each day = 3.75
-They will need to plan to study 4 days to allow for all the time they need.
-Answer: 4
-
-
 [Question]: Mark's basketball team scores 25 2 pointers, 8 3 pointers and 10 free throws.  Their opponents score double the 2 pointers but half the 3 pointers and free throws.  What's the total number of points scored by both teams added together?
 [Solution]:
 Let's think step by step.
